@@ -4,13 +4,13 @@ Testing what I learn about HTML on my first week taking the Rocketseat course
 
 - Basics HTML structure;
 
-< !DOCTYPE html >
-< html lang="" >
-  < head >
-    < title >< /title >
-  < /head >
-  < body >< /body >
- < /html >
+< !DOCTYPE html > <br>
+< html lang="" ><br>
+  < head ><br>
+    < title >< /title ><br>
+  < /head ><br>
+  < body >< /body ><br>
+ < /html ><br>
  
  *space used only to visualise what's inside the <>
  
