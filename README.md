@@ -6,11 +6,13 @@ Testing what I learn about HTML on my first week taking the Rocketseat course
 
 < !DOCTYPE html >
 < html lang="" >
-  <head>
-    <title></title>
-  </head>
-  <body></body>
- </html>
+  < head >
+    < title >< /title >
+  < /head >
+  < body >< /body >
+ < /html >
+ 
+ *space used only to visualise what's inside the <>
  
 - Diffente types of headings;
 - How to make bold and italic text;
