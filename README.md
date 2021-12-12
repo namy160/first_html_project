@@ -18,4 +18,4 @@ Testing what I learn about HTML on my first week taking the Rocketseat course
 - How to make bold and italic text;
 - Unordered and Ordered lists;
 - Image and Video (with caption and title);
-- How to use links inside the computer and outside.
+- How to use links to access files on the computer and on the internet.
