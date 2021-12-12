@@ -4,8 +4,8 @@ Testing what I learn about HTML on my first week taking the Rocketseat course
 
 - Basics HTML structure;
 
-<!DOCTYPE html>
-<html lang="">
+< !DOCTYPE html >
+< html lang="" >
   <head>
     <title></title>
   </head>
