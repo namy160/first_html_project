@@ -14,7 +14,7 @@ Testing what I learn about HTML on my first week taking the Rocketseat course
  
  *space used only to visualise what's inside the <>
  
-- Diffente types of headings;
+- Differente types of headings;
 - How to make bold and italic text;
 - Unordered and Ordered lists;
 - Image and Video (with caption and title);
